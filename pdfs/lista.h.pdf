@@ -1,0 +1,338 @@
+%PDF-1.3
+%‚„œ”
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 14835>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr ( 1  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 47.55 36.42 Tm 0 Tr (#ifndef LISTA_H) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr ( 2  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 47.55 47.75 Tm 0 Tr (#define LISTA_H) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr ( 3  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr ( 4  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 70.43 Tm 0 Tr (typedef struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+119.55 62.36 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 70.43 Tm 0 Tr (Celula ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 70.43 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr ( 5  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 81.77 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 66.75 81.77 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+85.95 73.70 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 85.95 81.77 Tm 0 Tr (dado) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 81.77 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr ( 6  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 93.11 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 66.75 93.11 Tm 0 Tr (struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+100.35 85.04 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 93.11 Tm 0 Tr (Celula) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 93.11 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+138.75 85.04 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 93.11 Tm 0 Tr (proximo) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 93.11 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr ( 7  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 47.55 104.45 Tm 0 Tr (} ) Tj  ET Q
+1.000 1.000 1.000 rg
+57.15 96.38 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 57.15 104.45 Tm 0 Tr (Celula) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 85.95 104.45 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr ( 8  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr ( 9  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 127.12 Tm 0 Tr (typedef struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+119.55 119.06 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 127.12 Tm 0 Tr (Celula Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 127.12 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr (10  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 138.46 Tm 0 Tr (typedef struct ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+119.55 130.39 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 138.46 Tm 0 Tr (Celula Nodo) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 138.46 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr (11  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (12  ) Tj  ET Q
+1.000 1.000 1.000 rg
+47.55 153.07 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 161.14 Tm 0 Tr (Celula) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 76.35 161.14 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+85.95 153.07 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 85.95 161.14 Tm 0 Tr (criarLista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 161.14 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (13  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 172.48 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+66.75 164.41 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 172.48 Tm 0 Tr (listaVazia) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 172.48 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+119.55 164.41 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 172.48 Tm 0 Tr (Celula) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 172.48 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 164.41 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 172.48 Tm 0 Tr (sequencia) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 172.48 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (14  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 183.82 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+71.55 175.75 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 183.82 Tm 0 Tr (inserirInicio) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 183.82 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+138.75 175.75 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 183.82 Tm 0 Tr (Celula) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 183.82 Tm 0 Tr (** ) Tj  ET Q
+1.000 1.000 1.000 rg
+181.95 175.75 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 181.95 183.82 Tm 0 Tr (sequencia) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 225.15 183.82 Tm 0 Tr (, ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 234.75 183.82 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+253.95 175.75 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 253.95 183.82 Tm 0 Tr (numero) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 282.75 183.82 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (15  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 195.16 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+71.55 187.09 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 195.16 Tm 0 Tr (inserirFim) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 195.16 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 187.09 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 195.16 Tm 0 Tr (Celula) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 195.16 Tm 0 Tr (** ) Tj  ET Q
+1.000 1.000 1.000 rg
+167.55 187.09 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 195.16 Tm 0 Tr (sequencia) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 210.75 195.16 Tm 0 Tr (, ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 220.35 195.16 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+239.55 187.09 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 239.55 195.16 Tm 0 Tr (numero) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 268.35 195.16 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr (16  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 206.49 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+71.55 198.43 57.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 206.49 Tm 0 Tr (mostrarLista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 206.49 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+133.95 198.43 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 206.49 Tm 0 Tr (Celula) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 206.49 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+172.35 198.43 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 172.35 206.49 Tm 0 Tr (sequencia) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 206.49 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr (17  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 217.83 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+71.55 209.76 57.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 217.83 Tm 0 Tr (liberarLista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 217.83 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+133.95 209.76 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 217.83 Tm 0 Tr (Celula) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 217.83 Tm 0 Tr (** ) Tj  ET Q
+1.000 1.000 1.000 rg
+177.15 209.76 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 177.15 217.83 Tm 0 Tr (sequencia) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 217.83 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr (18  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (19  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 240.51 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+66.75 232.44 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 240.51 Tm 0 Tr (maxLista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 240.51 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 232.44 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 240.51 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 240.51 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+138.75 232.44 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 240.51 Tm 0 Tr (lista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 240.51 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (20  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 251.85 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+66.75 243.78 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 251.85 Tm 0 Tr (minLista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 251.85 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 243.78 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 251.85 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 251.85 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+138.75 243.78 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 251.85 Tm 0 Tr (lista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 251.85 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (21  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 263.19 Tm 0 Tr (float ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+76.35 255.12 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 263.19 Tm 0 Tr (mediaLista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 124.35 263.19 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+129.15 255.12 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 129.15 263.19 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 148.35 263.19 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+157.95 255.12 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 157.95 263.19 Tm 0 Tr (lista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 263.19 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (22  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 274.53 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+66.75 266.46 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 274.53 Tm 0 Tr (lenLista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 105.15 274.53 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+109.95 266.46 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 274.53 Tm 0 Tr (Node) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 274.53 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+138.75 266.46 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 274.53 Tm 0 Tr (lista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 274.53 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr (23  ) Tj  ET Q
+1.000 1.000 1.000 rg
+47.55 277.80 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 285.86 Tm 0 Tr (Nodo) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 66.75 285.86 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+76.35 277.80 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 285.86 Tm 0 Tr (appendLista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 285.86 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+133.95 277.80 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 285.86 Tm 0 Tr (Nodo) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 285.86 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+162.75 277.80 9.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 162.75 285.86 Tm 0 Tr (L1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 172.35 285.86 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+181.95 277.80 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 181.95 285.86 Tm 0 Tr (Nodo) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 201.15 285.86 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+210.75 277.80 9.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 210.75 285.86 Tm 0 Tr (L2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 285.86 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (24  ) Tj  ET Q
+1.000 1.000 1.000 rg
+47.55 289.13 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 297.20 Tm 0 Tr (Nodo) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 66.75 297.20 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+76.35 289.13 57.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 76.35 297.20 Tm 0 Tr (reverseLista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 297.20 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+138.75 289.13 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 297.20 Tm 0 Tr (Nodo) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 297.20 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+167.55 289.13 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 297.20 Tm 0 Tr (lista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 191.55 297.20 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr (25  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 308.54 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+66.75 300.47 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 308.54 Tm 0 Tr (isSubLista) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 308.54 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+119.55 300.47 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 119.55 308.54 Tm 0 Tr (Nodo) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 308.54 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+148.35 300.47 9.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 308.54 Tm 0 Tr (L1) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 308.54 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+167.55 300.47 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 308.54 Tm 0 Tr (Nodo) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 308.54 Tm 0 Tr (* ) Tj  ET Q
+1.000 1.000 1.000 rg
+196.35 300.47 9.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 196.35 308.54 Tm 0 Tr (L2) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 308.54 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (26  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (27  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 47.55 331.22 Tm 0 Tr (#endif) Tj  ET Q
+Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.276 841.890]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<</Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F2 5 0 R
+/F1 6 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+7 0 obj
+<<
+/Names []
+>>
+endobj
+8 0 obj
+<<
+/Producer (˛ˇ w x P d f D o c u m e n t   1 . 1 . 0)
+/CreationDate (D:20260601224918Z)
+>>
+endobj
+9 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000014990 00000 n 
+0000015272 00000 n 
+0000000015 00000 n 
+0000000104 00000 n 
+0000015079 00000 n 
+0000015178 00000 n 
+0000015386 00000 n 
+0000015417 00000 n 
+0000015525 00000 n 
+trailer
+<<
+/Size 10
+/Root 9 0 R
+/Info 8 0 R
+>>
+startxref
+15628
+%%EOF
